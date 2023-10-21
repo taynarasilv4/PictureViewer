@@ -1,0 +1,11 @@
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
